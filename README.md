@@ -1,2 +1,0 @@
-# -Syphilis
-Owned by Julie
