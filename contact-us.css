@@ -1,10 +1,60 @@
 /*contact-us.css*/
 body{
-	background:navy;
+	background:white;
 	font-family: 'Open Sans Condensed', sans-serif;
 	color: pink;
 	}
 
 #lmao{
 	text-align:center;
+	text-decoration: underline;
+	font-weight: bold;
 }
+#left{
+	text-align: left;
+	overflow: auto;
+	float: right;
+	border:solid 10px pink;
+	background: navy;
+	margin:10px;
+	width: 1000px;
+	height: 500px;
+	font-size: 25px;
+}
+#left2{
+	text-align: left;
+	overflow: auto;
+	float: right;
+	border:solid 10px pink;
+	background: navy;
+	margin:10px;
+	width:1000px;
+	height: 500px;
+	font-size: 25px;
+}
+#right{
+	text-align: left;
+	color:navy;
+	overflow: auto;
+	border:solid 10px navy;
+	background: pink;
+	margin:10px;
+	width: 1000px;
+	height: 500px;
+	font-size: 25px;
+}
+
+
+
+#right2{
+	text-align: left;
+	color:navy;
+	overflow: auto;
+	border:solid 10px navy;
+	background: pink;
+	margin:10px;
+	width: 1000px;
+	height: 500px;
+	font-size: 25px
+}
+
