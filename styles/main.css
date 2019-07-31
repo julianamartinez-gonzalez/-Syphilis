@@ -1,0 +1,25 @@
+#heading { text-align: center;
+ border-style: solid;
+ color:navy; 
+background:pink;}
+
+#graph {
+	background-color: pink;
+	text-align: center;
+	border: dotted;
+}
+
+.right {text-align: right;}
+
+.left{text-align: left;}
+
+#div-float{
+	overflow: auto;
+	border: solid 10px navy;
+	background: pink;
+}
+
+.p-class{
+	margin:35px;
+	padding:25px;
+}
