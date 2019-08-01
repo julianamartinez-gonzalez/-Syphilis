@@ -1,6 +1,26 @@
-#all-nav{
 
-}
 body {
 	font-family: 'Open Sans Condensed', sans-serif;
+}
+#nav-box-1{
+	float: left;
+	padding: 15px 10px 15px 10px;
+	border-style: solid;
+	border-color: navy;
+	background-color: pink;
+	text-decoration: none;
+}
+#nav-box-2{
+	float:center;
+	padding:15px 10px 15px 10px;
+	border-style: solid;
+	border-color: navy;
+	background-color: pink;
+}
+#nav-box-3{
+	float: right;
+	padding: 15px 10px 15px 10px;
+	border-style: solid;
+	border-color: navy;
+	background-color: pink;
 }
