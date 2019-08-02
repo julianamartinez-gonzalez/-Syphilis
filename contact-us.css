@@ -7,7 +7,6 @@ body{
 
 #lmao{
 	text-align:center;
-	text-decoration: underline;
 	font-weight: bold;
 }
 #left{
@@ -57,4 +56,23 @@ body{
 	height: 500px;
 	font-size: 25px
 }
+img{
+	width: 300px;
+	border-radius: 55%;
+	float: left;
+	padding: 20px;
+}
 
+img{
+	width: 300px;
+	border-radius: 50%;
+	padding: 15px;
+	float:left;
+}
+
+#airpods{
+	width:300px;
+	border-radius: 50%;
+	padding:20px;
+	float:left;
+}
