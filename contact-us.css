@@ -56,11 +56,17 @@ body{
 	height: 500px;
 	font-size: 25px
 }
+img{
+	width: 300px;
+	border-radius: 55%;
+	float: left;
+	padding: 20px;
+}
 
 img{
 	width: 300px;
 	border-radius: 50%;
-	padding: 15px;
+	padding: 20px;
 	float:left;
 }
 

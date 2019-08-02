@@ -1,13 +1,13 @@
+body{
+	font-family: 'Open Sans Condensed', sans-serif;
+
+}
 #heading { text-align: center;
  border-style: solid;
  color:navy; 
-background:pink;}
-
-#graph {
-	background-color: pink;
-	text-align: center;
-	border: dotted;
-}
+background:pink;
+font-variant: bold;
+font-size: 40px}
 
 .right {text-align: right;}
 
@@ -15,11 +15,20 @@ background:pink;}
 
 #div-float{
 	overflow: auto;
-	border: solid 10px navy;
-	background: pink;
+	border: solid 1px pink;
+	background: navy;
 }
 
 .p-class{
 	margin:35px;
 	padding:25px;
 }
+
+{font-family: 'Open Sans Condensed', sans-serif;}
+
+
+#lefttext {text-align: left;
+background-color: pink}
+
+#righttext {text-align: right;
+background-color: pink}
