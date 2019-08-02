@@ -20,3 +20,30 @@ body {
 #new-3{
 	float: right;
 }
+p {
+	font-size: 20px;
+}
+#img-float {
+	float: left;
+	margin:20px;
+	width: 300px;
+}
+.p-class{
+	margin: 25px;
+	padding: 15px;
+}
+#float{
+	border-style:double; 
+	border-width: 5px;
+	border-color:rgb(222, 126, 204); ;
+	border-radius: 15px;
+	background-color: rgb(255, 232, 252); 
+	overflow: auto;
+}
+h2 {
+	text-align: center;
+}
+#interview {
+	border-style: double;
+
+}
