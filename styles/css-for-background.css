@@ -1,7 +1,7 @@
 
 body {
 	font-family: 'Open Sans Condensed', sans-serif;
-	background-color: rgb(252, 245, 255);
+	background-color: rgb(255, 242, 255);
 }
 #all-nav{
 	border-style: double;
@@ -31,6 +31,7 @@ p {
 	float: left;
 	margin:20px;
 	width: 350px;
+	height: 200px
 }
 .p-class{
 	margin: 25px;
