@@ -13,11 +13,17 @@ font-size: 40px}
 
 .left{text-align: left;}
 
-#div-float{
+#div-floatl{ text-align: left;
 	overflow: auto;
-	border: solid 1px pink;
+	border: solid 15px pink;
 	background: navy;
-}
+padding: 35px;}
+
+#div-floatr{
+	overflow: auto;
+	border: solid 15px navy;
+    background: pink;
+padding: 35px;}
 
 .p-class{
 	margin:35px;
@@ -26,9 +32,17 @@ font-size: 40px}
 
 {font-family: 'Open Sans Condensed', sans-serif;}
 
+#kit { background-color: pink;
+text-align:center;
+margin: 50px;
+padding: 10px;
+border: dotted; }
 
-#lefttext {text-align: left;
-background-color: pink}
+h1 { text-align: center; }
 
-#righttext {text-align: right;
-background-color: pink}
+#k {font-size: 40px;}
+#a {font-size: 40px;}
+
+.clearfix { overflow: auto; }
+
+#center {text-align: center;}

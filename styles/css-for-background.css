@@ -1,13 +1,17 @@
 
 body {
 	font-family: 'Open Sans Condensed', sans-serif;
+	background-color: rgb(255, 242, 255);
 }
 #all-nav{
-	border-style: solid;
-	border-color: navy;
-	background-color: pink;
+	border-style: double;
+	border-color: rgb(222, 126, 204);
+	border-width: 5px;
+	border-radius: 15px;
+	background-color: rgb(255, 232, 252);
 	padding-top: 20px;
-	padding-bottom: 20px 
+	padding-bottom: 20px;
+	font-size: 20px;
 }
 .box-1{
 	text-decoration:none;
@@ -20,3 +24,68 @@ body {
 #new-3{
 	float: right;
 }
+p {
+	font-size: 20px;
+}
+#img-float {
+	float: left;
+	margin:20px;
+	width: 350px;
+	height: 200px
+}
+.p-class{
+	margin: 25px;
+	padding: 15px;
+}
+a {
+	text-decoration: none;
+}
+#float{
+	border-style:double; 
+	border-width: 5px;
+	border-color:rgb(222, 126, 204); ;
+	border-radius: 15px;
+	background-color: rgb(255, 232, 252); 
+	overflow: auto;
+}
+#img-float-2 {
+	float: left;
+	margin:20px;
+	width: 350px;
+}
+.p-class-2{
+	margin: 25px;
+	padding: 15px;
+}
+#float-2{
+	border-style:double; 
+	border-width: 5px;
+	border-color:rgb(87, 119, 207) ;
+	border-radius: 15px;
+	background-color:  rgb(209, 225, 255); 
+	overflow: auto;
+}
+h2 {
+	text-align: center;
+}
+#Interview {
+	border-style: double;
+	border-color: rgb(87, 119, 207);
+	background-color: rgb(209, 225, 255);
+	border-width: 5px;
+	border-radius: 15px;
+	padding-left: 15px;
+	padding-right: 15px;
+	color: rgb(3, 12, 46);
+}
+#head{
+	border-style:double;
+	border-width: 5px;
+	border-radius: 15px;
+	border-color: rgb(87, 119, 207);
+	background-color: rgb(209, 225, 255);
+}
+#center-nav {
+	width: 80%;
+	margin: 0 auto;
+} 
